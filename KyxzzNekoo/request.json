@@ -1,6 +1,17 @@
 {
-  "hit": 0,
-  "hitToday": 0,
+  "hit": 1,
+  "hitToday": 1,
   "hitInDomain": 0,
-  "detail": []
+  "detail": [
+    {
+      "id": 1,
+      "path": "/api/stalker/threads",
+      "method": "GET",
+      "ping": 3970,
+      "status": {},
+      "created_at": "2026-07-12T18:13:06.768Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "userip": "103.155.166.81"
+    }
+  ]
 }
