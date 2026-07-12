@@ -1,8 +1,18 @@
 {
-  "hit": 1,
-  "hitToday": 1,
+  "hit": 2,
+  "hitToday": 2,
   "hitInDomain": 0,
   "detail": [
+    {
+      "id": 2,
+      "path": "/api/about",
+      "method": "GET",
+      "ping": 523,
+      "status": 200,
+      "created_at": "2026-07-12T18:20:34.301Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "userip": "103.155.166.81"
+    },
     {
       "id": 1,
       "path": "/api/stalker/threads",
