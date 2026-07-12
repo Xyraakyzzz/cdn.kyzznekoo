@@ -1,8 +1,18 @@
 {
-  "hit": 381,
-  "hitToday": 2,
+  "hit": 382,
+  "hitToday": 3,
   "hitInDomain": 0,
   "detail": [
+    {
+      "id": 382,
+      "path": "/api/about",
+      "method": "GET",
+      "ping": 1320,
+      "status": 200,
+      "created_at": "2026-07-12T18:27:34.161Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "userip": "103.155.166.81"
+    },
     {
       "id": 381,
       "path": "/api/cdn/crcdn",
@@ -3813,5 +3823,5 @@
       "user_agent": null,
       "userip": null
     }
- ]
+  ]
 }
