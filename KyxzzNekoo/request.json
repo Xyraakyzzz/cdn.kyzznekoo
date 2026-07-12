@@ -1,7 +1,17 @@
 {
-  "hit": 382,
-  "hitToday": 3,
+  "hit": 383,
+  "hitToday": 4,
   "detail": [
+    {
+      "id": 383,
+      "path": "/api/about",
+      "method": "GET",
+      "ping": 981,
+      "status": 200,
+      "created_at": "2026-07-12T18:35:52.613Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "userip": "103.155.166.81"
+    },
     {
       "id": 382,
       "path": "/api/about",
