@@ -4,24 +4,3814 @@
   "hitInDomain": 0,
   "detail": [
     {
+      "id": 381,
+      "path": "/api/cdn/crcdn",
+      "method": "GET",
+      "ping": 333,
+      "status": 404,
+      "created_at": "2026-07-01T16:31:29.310Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 14; TECNO KL4 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.159 Mobile Safari/537.36",
+      "userip": "103.155.166.80"
+    },
+    {
+      "id": 380,
+      "path": "/api/pyterodactyle/create_panel",
+      "method": "GET",
+      "ping": 295,
+      "status": 404,
+      "created_at": "2026-07-01T16:28:58.707Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 14; TECNO KL4 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.159 Mobile Safari/537.36",
+      "userip": "103.155.166.83"
+    },
+    {
+      "id": 379,
+      "path": "/api/canvas/greyscale",
+      "method": "GET",
+      "ping": 305,
+      "status": 404,
+      "created_at": "2026-07-01T16:23:35.137Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 14; TECNO KL4 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.159 Mobile Safari/537.36",
+      "userip": "103.155.166.83"
+    },
+    {
+      "id": 378,
+      "path": "/api/anime/quotes",
+      "method": "GET",
+      "ping": 291,
+      "status": 404,
+      "created_at": "2026-07-01T16:20:14.103Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 14; TECNO KL4 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.159 Mobile Safari/537.36",
+      "userip": "103.155.166.82"
+    },
+    {
+      "id": 377,
+      "path": "/api/tools/getpp",
+      "method": "GET",
+      "ping": 920,
+      "status": 200,
+      "created_at": "2026-06-28T13:27:26.183Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.243.254.175"
+    },
+    {
+      "id": 376,
+      "path": "/api/tools/getpp",
+      "method": "GET",
+      "ping": 1081,
+      "status": 400,
+      "created_at": "2026-06-28T13:27:19.666Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.243.254.175"
+    },
+    {
+      "id": 375,
+      "path": "/api/tools/v2/qr",
+      "method": "GET",
+      "ping": 579,
+      "status": 500,
+      "created_at": "2026-06-28T13:27:12.907Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.243.254.175"
+    },
+    {
+      "id": 374,
+      "path": "/api/tools/v2/qr",
+      "method": "GET",
+      "ping": 1160,
+      "status": 400,
+      "created_at": "2026-06-28T13:27:05.456Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.243.254.175"
+    },
+    {
+      "id": 373,
+      "path": "/api/translate/morse",
+      "method": "GET",
+      "ping": 475,
+      "status": 200,
+      "created_at": "2026-06-28T13:26:36.556Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.243.254.175"
+    },
+    {
+      "id": 372,
+      "path": "/api/translate/morse",
+      "method": "GET",
+      "ping": 1110,
+      "status": 200,
+      "created_at": "2026-06-28T13:26:26.938Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.243.254.175"
+    },
+    {
+      "id": 371,
+      "path": "/api/ai/deepseek",
+      "method": "GET",
+      "ping": 9755,
+      "status": 200,
+      "created_at": "2026-06-28T13:25:30.231Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.243.254.175"
+    },
+    {
+      "id": 370,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 944,
+      "status": 200,
+      "created_at": "2026-06-28T05:32:09.883Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "182.1.217.54"
+    },
+    {
+      "id": 369,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 1187,
+      "status": 200,
+      "created_at": "2026-06-28T05:25:43.124Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.85.222.107"
+    },
+    {
+      "id": 368,
+      "path": "/api/tools/spam-ngl",
+      "method": "GET",
+      "ping": 396,
+      "status": 200,
+      "created_at": "2026-06-28T04:41:07.620Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "103.153.247.69"
+    },
+    {
+      "id": 367,
+      "path": "/api/tools/spam-ngl",
+      "method": "GET",
+      "ping": 395,
+      "status": 200,
+      "created_at": "2026-06-28T04:41:02.283Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "103.153.247.69"
+    },
+    {
+      "id": 366,
+      "path": "/api/tools/spam-ngl",
+      "method": "GET",
+      "ping": 484,
+      "status": 200,
+      "created_at": "2026-06-28T04:40:53.440Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "103.153.247.69"
+    },
+    {
+      "id": 365,
+      "path": "/api/tools/spam-ngl",
+      "method": "GET",
+      "ping": 494,
+      "status": 200,
+      "created_at": "2026-06-28T04:40:25.362Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "103.153.247.69"
+    },
+    {
+      "id": 364,
+      "path": "/api/tools/spam-ngl",
+      "method": "GET",
+      "ping": 859,
+      "status": 200,
+      "created_at": "2026-06-28T04:39:48.392Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "103.153.247.69"
+    },
+    {
+      "id": 363,
+      "path": "/api/tools/spam-ngl",
+      "method": "GET",
+      "ping": 1311,
+      "status": 200,
+      "created_at": "2026-06-28T04:39:33.245Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "103.153.247.69"
+    },
+    {
+      "id": 362,
+      "path": "/api/downloader/ytmp4",
+      "method": "GET",
+      "ping": 40206,
+      "status": 200,
+      "created_at": "2026-06-28T03:47:20.989Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "112.215.238.177"
+    },
+    {
+      "id": 361,
+      "path": "/api/image/uhd",
+      "method": "GET",
+      "ping": 201,
+      "status": 404,
+      "created_at": "2026-06-27T16:44:18.705Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "140.213.15.40"
+    },
+    {
+      "id": 360,
+      "path": "/api/image/uhd",
+      "method": "GET",
+      "ping": 123,
+      "status": 404,
+      "created_at": "2026-06-27T16:41:10.493Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "140.213.15.40"
+    },
+    {
+      "id": 359,
+      "path": "/api/cdn/logsadm",
+      "method": "GET",
+      "ping": 798,
+      "status": 401,
+      "created_at": "2026-06-27T09:47:30.404Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.147.222"
+    },
+    {
+      "id": 358,
+      "path": "/api/downloader/v2/tiktok",
+      "method": "GET",
+      "ping": 4772,
+      "status": 200,
+      "created_at": "2026-06-27T07:18:52.104Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.150.103"
+    },
+    {
+      "id": 357,
+      "path": "/api/downloader/tiktok",
+      "method": "GET",
+      "ping": 2589,
+      "status": 200,
+      "created_at": "2026-06-27T07:17:58.001Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.150.103"
+    },
+    {
+      "id": 356,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1784,
+      "status": 200,
+      "created_at": "2026-06-27T04:27:02.694Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 355,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 958,
+      "status": 500,
+      "created_at": "2026-06-27T04:26:57.136Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 354,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 843,
+      "status": 200,
+      "created_at": "2026-06-27T04:26:50.038Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 353,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 1459,
+      "status": 200,
+      "created_at": "2026-06-27T04:26:46.902Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 352,
+      "path": "/api/berita/cnn",
+      "method": "GET",
+      "ping": 5240,
+      "status": 200,
+      "created_at": "2026-06-27T03:29:03.033Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "103.153.62.194"
+    },
+    {
+      "id": 351,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 1106,
+      "status": 200,
+      "created_at": "2026-06-26T21:03:51.771Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 350,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 1354,
+      "status": 200,
+      "created_at": "2026-06-26T21:03:50.149Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 349,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 1236,
+      "status": 200,
+      "created_at": "2026-06-26T21:03:48.093Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 348,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 1153,
+      "status": 200,
+      "created_at": "2026-06-26T21:03:46.023Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 347,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 1353,
+      "status": 200,
+      "created_at": "2026-06-26T21:03:44.121Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 346,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 2001,
+      "status": 200,
+      "created_at": "2026-06-26T21:03:41.959Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 345,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 2298,
+      "status": 200,
+      "created_at": "2026-06-26T21:01:06.662Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 344,
+      "path": "/api/random/thailand",
+      "method": "GET",
+      "ping": 5703,
+      "status": 200,
+      "created_at": "2026-06-26T21:00:11.972Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 343,
+      "path": "/api/image/quoteimg",
+      "method": "GET",
+      "ping": 13732,
+      "status": 400,
+      "created_at": "2026-06-26T20:59:51.308Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 342,
+      "path": "/api/image/story-ig",
+      "method": "GET",
+      "ping": 6485,
+      "status": 500,
+      "created_at": "2026-06-26T20:59:20.105Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 341,
+      "path": "/api/image/brat",
+      "method": "GET",
+      "ping": 4644,
+      "status": 200,
+      "created_at": "2026-06-26T20:58:47.657Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 340,
+      "path": "/api/image/ppcouple",
+      "method": "GET",
+      "ping": 1137,
+      "status": 200,
+      "created_at": "2026-06-26T20:58:21.362Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 339,
+      "path": "/api/editor/faceblur",
+      "method": "GET",
+      "ping": 8281,
+      "status": 400,
+      "created_at": "2026-06-26T20:57:50.802Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 338,
+      "path": "/api/donghua/search",
+      "method": "GET",
+      "ping": 24737,
+      "status": 200,
+      "created_at": "2026-06-26T20:57:35.594Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 337,
+      "path": "/api/cdn",
+      "method": "GET",
+      "ping": 1291,
+      "status": 200,
+      "created_at": "2026-06-26T20:56:32.726Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 336,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1280,
+      "status": 500,
+      "created_at": "2026-06-26T20:54:37.006Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 335,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 687,
+      "status": 200,
+      "created_at": "2026-06-26T20:54:18.733Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 334,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 756,
+      "status": 200,
+      "created_at": "2026-06-26T20:54:15.180Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 333,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 771,
+      "status": 200,
+      "created_at": "2026-06-26T20:54:12.596Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 332,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 496,
+      "status": 200,
+      "created_at": "2026-06-26T20:54:07.232Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 331,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 954,
+      "status": 200,
+      "created_at": "2026-06-26T20:54:03.663Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 330,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1575,
+      "status": 200,
+      "created_at": "2026-06-26T20:53:58.522Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 329,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1066,
+      "status": 500,
+      "created_at": "2026-06-26T20:53:53.749Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 328,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 1132,
+      "status": 200,
+      "created_at": "2026-06-26T20:53:40.803Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 327,
+      "path": "/api/anime/quotes",
+      "method": "GET",
+      "ping": 2782,
+      "status": 200,
+      "created_at": "2026-06-26T20:52:56.086Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 326,
+      "path": "/api/anime/quotes",
+      "method": "GET",
+      "ping": 2181,
+      "status": 200,
+      "created_at": "2026-06-26T20:51:55.310Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 325,
+      "path": "/api/anime/quotes",
+      "method": "GET",
+      "ping": 2836,
+      "status": 400,
+      "created_at": "2026-06-26T20:51:47.940Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 324,
+      "path": "/api/about",
+      "method": "GET",
+      "ping": 1052,
+      "status": 200,
+      "created_at": "2026-06-26T20:51:06.286Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.66.96"
+    },
+    {
+      "id": 323,
+      "path": "/api/ai/deepseek",
+      "method": "GET",
+      "ping": 2244,
+      "status": 200,
+      "created_at": "2026-06-26T15:04:10.543Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.5.215.147"
+    },
+    {
+      "id": 322,
+      "path": "/api/ai/deepseek",
+      "method": "GET",
+      "ping": 1993,
+      "status": 200,
+      "created_at": "2026-06-26T15:04:01.593Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.5.215.147"
+    },
+    {
+      "id": 321,
+      "path": "/api/ai/copilot-think",
+      "method": "GET",
+      "ping": 3608,
+      "status": 200,
+      "created_at": "2026-06-26T15:03:26.874Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.5.215.147"
+    },
+    {
+      "id": 320,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 978,
+      "status": 200,
+      "created_at": "2026-06-26T15:02:37.697Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.5.215.147"
+    },
+    {
+      "id": 319,
+      "path": "/api/ai/image/KyysGPT",
+      "method": "GET",
+      "ping": 1359,
+      "status": 500,
+      "created_at": "2026-06-26T10:23:26.750Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "113.11.179.50"
+    },
+    {
+      "id": 318,
+      "path": "/api/neko/latest",
+      "method": "GET",
+      "ping": 1390,
+      "status": 200,
+      "created_at": "2026-06-26T03:21:09.467Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.99.4"
+    },
+    {
+      "id": 317,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 567,
+      "status": 200,
+      "created_at": "2026-06-26T03:20:23.377Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.99.4"
+    },
+    {
+      "id": 316,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 1750,
+      "status": 200,
+      "created_at": "2026-06-26T03:20:22.280Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.99.4"
+    },
+    {
+      "id": 315,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 1953,
+      "status": 200,
+      "created_at": "2026-06-26T02:48:50.638Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 314,
+      "path": "/api/downloader/tiktok",
+      "method": "GET",
+      "ping": 1894,
+      "status": 200,
+      "created_at": "2026-06-25T23:46:10.926Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.153.247.69"
+    },
+    {
+      "id": 313,
+      "path": "/api/pyterodactyle/create_panel",
+      "method": "GET",
+      "ping": 7642,
+      "status": 400,
+      "created_at": "2026-06-25T23:45:39.763Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.153.247.69"
+    },
+    {
+      "id": 312,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 746,
+      "status": 200,
+      "created_at": "2026-06-25T18:05:15.639Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 311,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1536,
+      "status": 200,
+      "created_at": "2026-06-25T18:05:14.628Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 310,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 4546,
+      "status": 200,
+      "created_at": "2026-06-25T17:40:11.423Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 309,
+      "path": "/api/tools/ttlike",
+      "method": "GET",
+      "ping": 1363,
+      "status": 200,
+      "created_at": "2026-06-25T17:32:30.647Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 308,
+      "path": "/api/tools/spam-ngl",
+      "method": "GET",
+      "ping": 438,
+      "status": 200,
+      "created_at": "2026-06-25T17:31:37.744Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 307,
+      "path": "/api/tools/spam-ngl",
+      "method": "GET",
+      "ping": 478,
+      "status": 200,
+      "created_at": "2026-06-25T17:31:35.497Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 306,
+      "path": "/api/tools/spam-ngl",
+      "method": "GET",
+      "ping": 7780,
+      "status": 200,
+      "created_at": "2026-06-25T17:31:21.668Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 305,
+      "path": "/api/tools/sc_ml",
+      "method": "GET",
+      "ping": 480,
+      "status": 200,
+      "created_at": "2026-06-25T17:26:25.835Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 304,
+      "path": "/api/tools/sc_ml",
+      "method": "GET",
+      "ping": 567,
+      "status": 200,
+      "created_at": "2026-06-25T17:22:06.488Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 303,
+      "path": "/api/tools/sc_ml",
+      "method": "GET",
+      "ping": 1402,
+      "status": 404,
+      "created_at": "2026-06-25T17:21:58.741Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 302,
+      "path": "/api/tools/ttboost",
+      "method": "GET",
+      "ping": 1281,
+      "status": 200,
+      "created_at": "2026-06-25T17:21:51.388Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 301,
+      "path": "/api/tools/ttboost",
+      "method": "GET",
+      "ping": 2528,
+      "status": 200,
+      "created_at": "2026-06-25T17:21:26.715Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 300,
+      "path": "/api/tools/ttlike",
+      "method": "GET",
+      "ping": 378,
+      "status": 200,
+      "created_at": "2026-06-25T17:21:20.248Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 299,
+      "path": "/api/tools/ttlike",
+      "method": "GET",
+      "ping": 507,
+      "status": 200,
+      "created_at": "2026-06-25T17:21:19.685Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 298,
+      "path": "/api/tools/ttlike",
+      "method": "GET",
+      "ping": 1588,
+      "status": 200,
+      "created_at": "2026-06-25T17:21:08.008Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 297,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 1526,
+      "status": 500,
+      "created_at": "2026-06-25T17:19:52.911Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 296,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 975,
+      "status": 200,
+      "created_at": "2026-06-25T17:19:38.130Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 295,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 382,
+      "status": 500,
+      "created_at": "2026-06-25T17:19:34.467Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 294,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 994,
+      "status": 500,
+      "created_at": "2026-06-25T17:19:31.767Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 293,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 785,
+      "status": 200,
+      "created_at": "2026-06-25T17:19:30.245Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 292,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 754,
+      "status": 200,
+      "created_at": "2026-06-25T17:19:26.739Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 291,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 699,
+      "status": 200,
+      "created_at": "2026-06-25T17:19:24.041Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 290,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1704,
+      "status": 200,
+      "created_at": "2026-06-25T17:19:21.992Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 289,
+      "path": "/api/tools/v2/qr",
+      "method": "GET",
+      "ping": 1670,
+      "status": 500,
+      "created_at": "2026-06-25T17:17:55.170Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.8.255.123"
+    },
+    {
+      "id": 288,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 2573,
+      "status": 200,
+      "created_at": "2026-06-25T13:59:54.960Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 287,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1019,
+      "status": 500,
+      "created_at": "2026-06-25T13:59:40.814Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 286,
+      "path": "/api/anime/animekita/anime-list",
+      "method": "GET",
+      "ping": 2094,
+      "status": 200,
+      "created_at": "2026-06-25T13:59:11.918Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 285,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 783,
+      "status": 200,
+      "created_at": "2026-06-25T12:13:48.070Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 284,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 754,
+      "status": 200,
+      "created_at": "2026-06-25T12:13:45.596Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 283,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1070,
+      "status": 200,
+      "created_at": "2026-06-25T12:13:36.105Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 282,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 737,
+      "status": 200,
+      "created_at": "2026-06-25T12:13:28.831Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 281,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 721,
+      "status": 200,
+      "created_at": "2026-06-25T12:13:26.594Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 280,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 437,
+      "status": 500,
+      "created_at": "2026-06-25T12:13:24.082Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 279,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1573,
+      "status": 200,
+      "created_at": "2026-06-25T12:13:11.840Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 278,
+      "path": "/api/anime/otakudesu",
+      "method": "GET",
+      "ping": 3177,
+      "status": 200,
+      "created_at": "2026-06-25T12:12:36.348Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 277,
+      "path": "/api/anime/otakudesu",
+      "method": "GET",
+      "ping": 1047,
+      "status": 400,
+      "created_at": "2026-06-25T12:12:26.307Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 276,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1034,
+      "status": 500,
+      "created_at": "2026-06-25T12:12:00.000Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.165.105.94"
+    },
+    {
+      "id": 275,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 1639,
+      "status": 200,
+      "created_at": "2026-06-25T10:15:21.933Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.148.191"
+    },
+    {
+      "id": 274,
+      "path": "/api/play/spotify",
+      "method": "GET",
+      "ping": 18572,
+      "status": 200,
+      "created_at": "2026-06-25T10:08:19.705Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.148.191"
+    },
+    {
+      "id": 273,
+      "path": "/api/cdn/logsadm",
+      "method": "GET",
+      "ping": 7015,
+      "status": 401,
+      "created_at": "2026-06-25T04:50:22.659Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.233.126"
+    },
+    {
+      "id": 272,
+      "path": "/api/assets/key",
+      "method": "GET",
+      "ping": 294,
+      "status": 404,
+      "created_at": "2026-06-25T04:50:10.303Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.233.126"
+    },
+    {
+      "id": 271,
+      "path": "/api/assets/key",
+      "method": "GET",
+      "ping": 780,
+      "status": 404,
+      "created_at": "2026-06-25T04:49:23.325Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.233.126"
+    },
+    {
+      "id": 270,
+      "path": "/api/anime/animekita/movie",
+      "method": "GET",
+      "ping": 801,
+      "status": 200,
+      "created_at": "2026-06-25T02:13:39.383Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36 EdgA/149.0.0.0",
+      "userip": "103.156.248.34"
+    },
+    {
+      "id": 269,
+      "path": "/api/play/spotify",
+      "method": "GET",
+      "ping": 6931,
+      "status": 200,
+      "created_at": "2026-06-25T02:09:52.412Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36 EdgA/149.0.0.0",
+      "userip": "103.156.248.34"
+    },
+    {
+      "id": 268,
+      "path": "/api/neko/genre",
+      "method": "GET",
+      "ping": 749,
+      "status": 500,
+      "created_at": "2026-06-25T02:09:27.152Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36 EdgA/149.0.0.0",
+      "userip": "103.156.248.34"
+    },
+    {
+      "id": 267,
+      "path": "/api/neko/latest",
+      "method": "GET",
+      "ping": 1346,
+      "status": 200,
+      "created_at": "2026-06-25T02:09:14.805Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36 EdgA/149.0.0.0",
+      "userip": "103.156.248.34"
+    },
+    {
+      "id": 266,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1570,
+      "status": 200,
+      "created_at": "2026-06-24T23:52:04.253Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.100.245"
+    },
+    {
+      "id": 265,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 593,
+      "status": 200,
+      "created_at": "2026-06-24T23:52:00.493Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.100.245"
+    },
+    {
+      "id": 264,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 762,
+      "status": 200,
+      "created_at": "2026-06-24T23:51:57.514Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.100.245"
+    },
+    {
+      "id": 263,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 926,
+      "status": 200,
+      "created_at": "2026-06-24T23:51:52.587Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.100.245"
+    },
+    {
+      "id": 262,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 641,
+      "status": 200,
+      "created_at": "2026-06-24T23:51:44.653Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.100.245"
+    },
+    {
+      "id": 261,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 614,
+      "status": 200,
+      "created_at": "2026-06-24T23:51:42.095Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.100.245"
+    },
+    {
+      "id": 260,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 551,
+      "status": 200,
+      "created_at": "2026-06-24T23:51:37.863Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.100.245"
+    },
+    {
+      "id": 259,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 1521,
+      "status": 200,
+      "created_at": "2026-06-24T23:51:36.695Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 OPR/99.0.0.0",
+      "userip": "182.8.100.245"
+    },
+    {
+      "id": 258,
+      "path": "/api/downloader/Instagram",
+      "method": "GET",
+      "ping": 400,
+      "status": 400,
+      "created_at": "2026-06-24T19:18:17.399Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.231.12"
+    },
+    {
+      "id": 257,
+      "path": "/api/downloader/Instagram",
+      "method": "GET",
+      "ping": 912,
+      "status": 400,
+      "created_at": "2026-06-24T19:17:47.170Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.231.12"
+    },
+    {
+      "id": 256,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 3680,
+      "status": 200,
+      "created_at": "2026-06-24T14:39:20.512Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.248.9.178"
+    },
+    {
+      "id": 255,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 3803,
+      "status": 500,
+      "created_at": "2026-06-24T14:39:19.776Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.248.9.178"
+    },
+    {
+      "id": 254,
+      "path": "/api/about",
+      "method": "GET",
+      "ping": 1276,
+      "status": 200,
+      "created_at": "2026-06-24T12:25:23.594Z",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "125.160.138.123"
+    },
+    {
+      "id": 253,
+      "path": "/api/cdn/crcdn",
+      "method": "GET",
+      "ping": 1207,
+      "status": 401,
+      "created_at": "2026-06-24T10:22:32.189Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.156.17.89"
+    },
+    {
+      "id": 252,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 941,
+      "status": 200,
+      "created_at": "2026-06-24T10:20:46.973Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.156.17.89"
+    },
+    {
+      "id": 251,
+      "path": "/api/user",
+      "method": "GET",
+      "ping": 782,
+      "status": 200,
+      "created_at": "2026-06-23T19:44:47.797Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.214.182"
+    },
+    {
+      "id": 250,
+      "path": "/api/upload/github",
+      "method": "GET",
+      "ping": 765,
+      "status": 500,
+      "created_at": "2026-06-23T05:12:12.539Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "125.165.100.167"
+    },
+    {
+      "id": 249,
+      "path": "/api/upload/github",
+      "method": "GET",
+      "ping": 1884,
+      "status": 500,
+      "created_at": "2026-06-23T05:11:44.473Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "125.165.100.167"
+    },
+    {
+      "id": 248,
+      "path": "/api/play/spotify",
+      "method": "GET",
+      "ping": 32230,
+      "status": 200,
+      "created_at": "2026-06-23T05:10:18.234Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "125.165.100.167"
+    },
+    {
+      "id": 247,
+      "path": "/api/tools/ttboost",
+      "method": "GET",
+      "ping": 1276,
+      "status": 200,
+      "created_at": "2026-06-22T23:31:57.381Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.11.119"
+    },
+    {
+      "id": 246,
+      "path": "/api/tools/ttboost",
+      "method": "GET",
+      "ping": 3207,
+      "status": 200,
+      "created_at": "2026-06-22T23:29:40.805Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.11.119"
+    },
+    {
+      "id": 245,
+      "path": "/api/downloader/tiktok",
+      "method": "GET",
+      "ping": 1642,
+      "status": 200,
+      "created_at": "2026-06-22T23:03:31.862Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.4.71.94"
+    },
+    {
+      "id": 244,
+      "path": "/api/downloader/tiktok",
+      "method": "GET",
+      "ping": 2203,
+      "status": 200,
+      "created_at": "2026-06-22T22:59:21.508Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "182.4.71.94"
+    },
+    {
+      "id": 243,
+      "path": "/api/ai/unlimited",
+      "method": "GET",
+      "ping": 2383,
+      "status": 200,
+      "created_at": "2026-06-22T22:35:14.237Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 242,
+      "path": "/api/ai/unlimited",
+      "method": "GET",
+      "ping": 2166,
+      "status": 200,
+      "created_at": "2026-06-22T22:35:01.231Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 241,
+      "path": "/api/ai/unlimited",
+      "method": "GET",
+      "ping": 4013,
+      "status": 200,
+      "created_at": "2026-06-22T22:34:29.071Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 240,
+      "path": "/api/stalker/ml",
+      "method": "GET",
+      "ping": 2464,
+      "status": 404,
+      "created_at": "2026-06-22T22:32:54.034Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 239,
+      "path": "/api/tools/ip",
+      "method": "GET",
+      "ping": 8528,
+      "status": 400,
+      "created_at": "2026-06-22T22:32:32.419Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 238,
+      "path": "/api/tools/sendmail",
+      "method": "GET",
+      "ping": 10035,
+      "status": 200,
+      "created_at": "2026-06-22T22:31:16.908Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 237,
+      "path": "/api/tools/ttlike",
+      "method": "GET",
+      "ping": 3800,
+      "status": 200,
+      "created_at": "2026-06-22T22:29:52.332Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 236,
+      "path": "/api/upscale/hdvideo",
+      "method": "GET",
+      "ping": 7843,
+      "status": 200,
+      "created_at": "2026-06-22T22:24:01.488Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 235,
+      "path": "/api/upscale/v5/uhd",
+      "method": "GET",
+      "ping": 18196,
+      "status": 200,
+      "created_at": "2026-06-22T22:20:26.562Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 234,
+      "path": "/api/image/uhd",
+      "method": "GET",
+      "ping": 108,
+      "status": 404,
+      "created_at": "2026-06-22T22:19:34.577Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 233,
+      "path": "/api/donghua/completed",
+      "method": "GET",
+      "ping": 20348,
+      "status": 200,
+      "created_at": "2026-06-22T22:18:39.679Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 232,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1749,
+      "status": 200,
+      "created_at": "2026-06-22T22:15:40.098Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 231,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 1206,
+      "status": 200,
+      "created_at": "2026-06-22T22:15:05.326Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 230,
+      "path": "/api/user",
+      "method": "GET",
+      "ping": 1459,
+      "status": 200,
+      "created_at": "2026-06-22T15:23:50.816Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.252.93.146"
+    },
+    {
+      "id": 229,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 1341,
+      "status": 200,
+      "created_at": "2026-06-22T15:09:13.105Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "182.7.38.203"
+    },
+    {
+      "id": 228,
+      "path": "/api/anime/quotes",
+      "method": "GET",
+      "ping": 6423,
+      "status": 200,
+      "created_at": "2026-06-22T15:08:51.380Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "182.7.38.203"
+    },
+    {
+      "id": 227,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 1309,
+      "status": 200,
+      "created_at": "2026-06-22T14:21:19.102Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 226,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 407,
+      "status": 500,
+      "created_at": "2026-06-22T14:18:58.614Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 225,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 915,
+      "status": 500,
+      "created_at": "2026-06-22T14:18:50.714Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "45.251.4.46"
+    },
+    {
+      "id": 224,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 6201,
+      "status": 200,
+      "created_at": "2026-06-22T12:47:13.154Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "103.162.221.196"
+    },
+    {
+      "id": 223,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 1058,
+      "status": 400,
+      "created_at": "2026-06-22T08:36:11.839Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.104.174"
+    },
+    {
+      "id": 222,
+      "path": "/api/ai/gemini",
+      "method": "GET",
+      "ping": 1189,
+      "status": 400,
+      "created_at": "2026-06-22T08:35:37.645Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.104.174"
+    },
+    {
+      "id": 221,
+      "path": "/api/ai/vanice",
+      "method": "GET",
+      "ping": 62169,
+      "status": 500,
+      "created_at": "2026-06-22T08:29:35.002Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.5.214.47"
+    },
+    {
+      "id": 220,
+      "path": "/api/ai/unlimited",
+      "method": "GET",
+      "ping": 2527,
+      "status": 200,
+      "created_at": "2026-06-22T08:29:16.661Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.5.214.47"
+    },
+    {
+      "id": 219,
+      "path": "/api/ai/qwen",
+      "method": "GET",
+      "ping": 4042,
+      "status": 500,
+      "created_at": "2026-06-22T08:28:14.041Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.5.214.47"
+    },
+    {
+      "id": 218,
+      "path": "/api/ai/deepseek",
+      "method": "GET",
+      "ping": 5153,
+      "status": 200,
+      "created_at": "2026-06-22T08:27:42.467Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.5.214.47"
+    },
+    {
+      "id": 217,
+      "path": "/api/tools/getpp",
+      "method": "GET",
+      "ping": 654,
+      "status": 200,
+      "created_at": "2026-06-22T07:42:04.820Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.91 Mobile Safari/537.36",
+      "userip": "182.10.130.71"
+    },
+    {
+      "id": 216,
+      "path": "/api/tools/getpp",
+      "method": "GET",
+      "ping": 385,
+      "status": 400,
+      "created_at": "2026-06-22T07:41:58.887Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.91 Mobile Safari/537.36",
+      "userip": "182.10.130.71"
+    },
+    {
+      "id": 215,
+      "path": "/api/tools/getpp",
+      "method": "GET",
+      "ping": 972,
+      "status": 400,
+      "created_at": "2026-06-22T07:41:41.642Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.91 Mobile Safari/537.36",
+      "userip": "182.10.130.71"
+    },
+    {
+      "id": 214,
+      "path": "/api/stalker/gc",
+      "method": "GET",
+      "ping": 570,
+      "status": 200,
+      "created_at": "2026-06-22T07:41:13.827Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.91 Mobile Safari/537.36",
+      "userip": "182.10.130.71"
+    },
+    {
+      "id": 213,
+      "path": "/api/stalker/gc",
+      "method": "GET",
+      "ping": 1633,
+      "status": 200,
+      "created_at": "2026-06-22T07:41:08.557Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.91 Mobile Safari/537.36",
+      "userip": "182.10.130.71"
+    },
+    {
+      "id": 212,
+      "path": "/api/stalker/ml",
+      "method": "GET",
+      "ping": 3114,
+      "status": 200,
+      "created_at": "2026-06-22T07:05:59.102Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "114.79.49.165"
+    },
+    {
+      "id": 211,
+      "path": "/api/tools/sc_ml",
+      "method": "GET",
+      "ping": 1194,
+      "status": 200,
+      "created_at": "2026-06-22T02:34:29.408Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.91.149.169"
+    },
+    {
+      "id": 210,
+      "path": "/api/translate/morse",
+      "method": "GET",
+      "ping": 8847,
+      "status": 200,
+      "created_at": "2026-06-22T02:31:24.781Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.91.149.169"
+    },
+    {
+      "id": 209,
+      "path": "/api/berita/cnn",
+      "method": "GET",
+      "ping": 2231,
+      "status": 200,
+      "created_at": "2026-06-21T14:42:57.815Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "userip": "117.53.47.127"
+    },
+    {
+      "id": 208,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1114,
+      "status": 500,
+      "created_at": "2026-06-21T14:42:44.963Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "userip": "117.53.47.127"
+    },
+    {
+      "id": 207,
+      "path": "/api/ai/glm",
+      "method": "GET",
+      "ping": 3738,
+      "status": 500,
+      "created_at": "2026-06-21T14:42:15.324Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "userip": "117.53.47.127"
+    },
+    {
+      "id": 206,
+      "path": "/api/ai/glm",
+      "method": "GET",
+      "ping": 1442,
+      "status": 400,
+      "created_at": "2026-06-21T14:42:09.051Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "userip": "117.53.47.127"
+    },
+    {
+      "id": 205,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 3973,
+      "status": 200,
+      "created_at": "2026-06-21T08:20:43.463Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 204,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 3529,
+      "status": 200,
+      "created_at": "2026-06-21T08:20:10.847Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 203,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 3713,
+      "status": 200,
+      "created_at": "2026-06-21T08:19:52.008Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 202,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 1057,
+      "status": 400,
+      "created_at": "2026-06-21T08:19:44.432Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 201,
+      "path": "/api/about",
+      "method": "GET",
+      "ping": 1361,
+      "status": 200,
+      "created_at": "2026-06-21T08:19:15.385Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 200,
+      "path": "/api/ai/microsoft",
+      "method": "GET",
+      "ping": 11248,
+      "status": 200,
+      "created_at": "2026-06-21T06:46:01.765Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 199,
+      "path": "/api/ai/microsoft",
+      "method": "GET",
+      "ping": 3144,
+      "status": 200,
+      "created_at": "2026-06-21T06:45:33.749Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 198,
+      "path": "/api/ai/microsoft",
+      "method": "GET",
+      "ping": 432,
+      "status": 500,
+      "created_at": "2026-06-21T06:45:20.805Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 197,
+      "path": "/api/ai/microsoft",
+      "method": "GET",
+      "ping": 1403,
+      "status": 500,
+      "created_at": "2026-06-21T06:45:12.534Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 196,
+      "path": "/api/ai/KyysGPT",
+      "method": "GET",
+      "ping": 5996,
+      "status": 500,
+      "created_at": "2026-06-21T06:44:59.087Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 195,
+      "path": "/api/anime/otakudesu",
+      "method": "GET",
+      "ping": 3034,
+      "status": 200,
+      "created_at": "2026-06-21T06:44:38.981Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 194,
+      "path": "/api/anime/otakudesu",
+      "method": "GET",
+      "ping": 906,
+      "status": 400,
+      "created_at": "2026-06-21T06:44:29.836Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 193,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 1255,
+      "status": 200,
+      "created_at": "2026-06-21T06:43:55.319Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 192,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 1706,
+      "status": 200,
+      "created_at": "2026-06-21T06:43:42.089Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 191,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 5898,
+      "status": 200,
+      "created_at": "2026-06-21T06:43:21.683Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 190,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 3704,
+      "status": 200,
+      "created_at": "2026-06-21T06:42:56.087Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userip": "114.10.18.18"
+    },
+    {
+      "id": 189,
+      "path": "/api/anime/otakudesu",
+      "method": "GET",
+      "ping": 32445,
+      "status": 200,
+      "created_at": "2026-06-20T15:42:20.652Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+      "userip": "114.10.142.137"
+    },
+    {
+      "id": 188,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1046,
+      "status": 500,
+      "created_at": "2026-06-20T15:42:19.198Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+      "userip": "114.10.142.137"
+    },
+    {
+      "id": 187,
+      "path": "/api/ai/KyysGPT",
+      "method": "GET",
+      "ping": 10123,
+      "status": 500,
+      "created_at": "2026-06-20T14:34:01.784Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.155.167.249"
+    },
+    {
+      "id": 186,
+      "path": "/api/ai/KyysGPT",
+      "method": "GET",
+      "ping": 7012,
+      "status": 500,
+      "created_at": "2026-06-20T14:21:39.470Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.155.167.251"
+    },
+    {
+      "id": 185,
+      "path": "/api/ai/KyysGPT",
+      "method": "GET",
+      "ping": 7647,
+      "status": 500,
+      "created_at": "2026-06-20T14:21:39.004Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.155.167.251"
+    },
+    {
+      "id": 184,
+      "path": "/api/anime/animekita/episode",
+      "method": "GET",
+      "ping": 1088,
+      "status": 400,
+      "created_at": "2026-06-20T12:39:45.864Z",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "45.251.5.250"
+    },
+    {
+      "id": 183,
+      "path": "/api/anime/animekita/anime-list",
+      "method": "GET",
+      "ping": 1167,
+      "status": 200,
+      "created_at": "2026-06-20T10:55:24.367Z",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "45.251.5.250"
+    },
+    {
+      "id": 182,
+      "path": "/api/anime/animekita/anime-list",
+      "method": "GET",
+      "ping": 1749,
+      "status": 200,
+      "created_at": "2026-06-20T10:55:18.130Z",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "45.251.5.250"
+    },
+    {
+      "id": 181,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 935,
+      "status": 200,
+      "created_at": "2026-06-20T06:00:44.225Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.173.195"
+    },
+    {
+      "id": 180,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1022,
+      "status": 500,
+      "created_at": "2026-06-20T06:00:41.726Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.173.195"
+    },
+    {
+      "id": 179,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 745,
+      "status": 200,
+      "created_at": "2026-06-20T05:27:18.595Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 178,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1076,
+      "status": 200,
+      "created_at": "2026-06-20T05:27:10.990Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 177,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 822,
+      "status": 200,
+      "created_at": "2026-06-20T05:27:06.164Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 176,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 725,
+      "status": 200,
+      "created_at": "2026-06-20T05:27:01.921Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 175,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 906,
+      "status": 200,
+      "created_at": "2026-06-20T05:26:58.055Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 174,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 907,
+      "status": 200,
+      "created_at": "2026-06-20T05:26:53.736Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 173,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 718,
+      "status": 200,
+      "created_at": "2026-06-20T05:26:44.857Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 172,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 839,
+      "status": 200,
+      "created_at": "2026-06-20T05:26:37.519Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 171,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 724,
+      "status": 200,
+      "created_at": "2026-06-20T05:26:34.246Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 170,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1126,
+      "status": 200,
+      "created_at": "2026-06-20T05:26:08.101Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 169,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 984,
+      "status": 200,
+      "created_at": "2026-06-20T05:26:01.799Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 168,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1073,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:53.146Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 167,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 677,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:46.935Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 166,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1166,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:44.155Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 165,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 888,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:38.912Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 164,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 859,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:34.322Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 163,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 564,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:29.040Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 162,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 763,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:24.793Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 161,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1121,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:14.632Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 160,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 977,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:07.402Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 159,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 966,
+      "status": 200,
+      "created_at": "2026-06-20T05:25:01.825Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 158,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 337,
+      "status": 500,
+      "created_at": "2026-06-20T05:24:57.955Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 157,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 394,
+      "status": 500,
+      "created_at": "2026-06-20T05:24:57.057Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 156,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 12907,
+      "status": 200,
+      "created_at": "2026-06-20T05:22:39.717Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 155,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 11712,
+      "status": 500,
+      "created_at": "2026-06-20T05:22:36.760Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 154,
+      "path": "/api/user",
+      "method": "GET",
+      "ping": 3165,
+      "status": 200,
+      "created_at": "2026-06-20T05:22:18.001Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 153,
+      "path": "/api/anime/animekita/anime-list",
+      "method": "GET",
+      "ping": 1755,
+      "status": 200,
+      "created_at": "2026-06-20T05:21:39.152Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 152,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 361,
+      "status": 500,
+      "created_at": "2026-06-20T05:20:53.735Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 151,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 349,
+      "status": 500,
+      "created_at": "2026-06-20T05:20:44.739Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 150,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 548,
+      "status": 200,
+      "created_at": "2026-06-20T05:20:40.728Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 149,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1047,
+      "status": 200,
+      "created_at": "2026-06-20T05:20:26.940Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 148,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 617,
+      "status": 200,
+      "created_at": "2026-06-20T05:20:23.136Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 147,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 582,
+      "status": 200,
+      "created_at": "2026-06-20T05:20:19.596Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 146,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 541,
+      "status": 200,
+      "created_at": "2026-06-20T05:20:06.186Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 145,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 560,
+      "status": 200,
+      "created_at": "2026-06-20T05:20:03.095Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 144,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 889,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:57.878Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 143,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 706,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:54.129Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 142,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 975,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:50.468Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 141,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 756,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:47.851Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 140,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1103,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:43.251Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 139,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1031,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:38.167Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 138,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 954,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:29.401Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 137,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 738,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:26.629Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 136,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 937,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:23.595Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 135,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 831,
+      "status": 500,
+      "created_at": "2026-06-20T05:19:04.688Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 134,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 731,
+      "status": 200,
+      "created_at": "2026-06-20T05:19:02.593Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 133,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 983,
+      "status": 200,
+      "created_at": "2026-06-20T05:18:57.830Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 132,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1112,
+      "status": 200,
+      "created_at": "2026-06-20T05:18:40.747Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 131,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 544,
+      "status": 200,
+      "created_at": "2026-06-20T05:18:37.496Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 130,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 526,
+      "status": 200,
+      "created_at": "2026-06-20T05:18:09.213Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 129,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 596,
+      "status": 500,
+      "created_at": "2026-06-20T05:18:08.191Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 128,
+      "path": "/api/search/hentai",
+      "method": "GET",
+      "ping": 61146,
+      "status": 500,
+      "created_at": "2026-06-20T05:17:18.355Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 127,
+      "path": "/api/search/sholatv2",
+      "method": "GET",
+      "ping": 6230,
+      "status": 200,
+      "created_at": "2026-06-20T05:16:47.635Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 126,
+      "path": "/api/search/nsfwgen",
+      "method": "GET",
+      "ping": 60584,
+      "status": 500,
+      "created_at": "2026-06-20T05:16:19.211Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 125,
+      "path": "/api/search/nsfwgen",
+      "method": "GET",
+      "ping": 1425,
+      "status": 400,
+      "created_at": "2026-06-20T05:15:12.132Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 124,
+      "path": "/api/donghua/completed",
+      "method": "GET",
+      "ping": 24663,
+      "status": 200,
+      "created_at": "2026-06-20T05:14:25.209Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 123,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 763,
+      "status": 200,
+      "created_at": "2026-06-20T05:13:44.077Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 122,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 926,
+      "status": 200,
+      "created_at": "2026-06-20T05:13:38.207Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 121,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 908,
+      "status": 200,
+      "created_at": "2026-06-20T05:13:31.604Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 120,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1054,
+      "status": 200,
+      "created_at": "2026-06-20T05:13:24.188Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 119,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 681,
+      "status": 200,
+      "created_at": "2026-06-20T05:13:19.000Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 118,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 601,
+      "status": 200,
+      "created_at": "2026-06-20T05:13:12.880Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 117,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 899,
+      "status": 200,
+      "created_at": "2026-06-20T05:13:10.283Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 116,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 1380,
+      "status": 200,
+      "created_at": "2026-06-20T05:12:51.235Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 115,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1199,
+      "status": 200,
+      "created_at": "2026-06-20T05:12:25.270Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 114,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 985,
+      "status": 200,
+      "created_at": "2026-06-20T05:12:20.322Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 113,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1527,
+      "status": 200,
+      "created_at": "2026-06-20T05:12:08.503Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 112,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 394,
+      "status": 500,
+      "created_at": "2026-06-20T05:11:33.737Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 111,
+      "path": "/api/berita/cnn",
+      "method": "GET",
+      "ping": 4855,
+      "status": 200,
+      "created_at": "2026-06-20T05:11:21.724Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 110,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 370,
+      "status": 500,
+      "created_at": "2026-06-20T05:11:07.012Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 109,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 2471,
+      "status": 200,
+      "created_at": "2026-06-20T05:09:58.685Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 108,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 916,
+      "status": 400,
+      "created_at": "2026-06-20T05:09:42.660Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 107,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 435,
+      "status": 500,
+      "created_at": "2026-06-20T05:09:25.244Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 106,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1143,
+      "status": 500,
+      "created_at": "2026-06-20T05:09:21.113Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "112.215.154.208"
+    },
+    {
+      "id": 105,
+      "path": "/api/user",
+      "method": "GET",
+      "ping": 689,
+      "status": 200,
+      "created_at": "2026-06-19T20:50:19.012Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "114.10.145.91"
+    },
+    {
+      "id": 104,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 2068,
+      "status": 200,
+      "created_at": "2026-06-19T18:03:55.707Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "182.2.50.30"
+    },
+    {
+      "id": 103,
+      "path": "/api/downloader/Instagram",
+      "method": "GET",
+      "ping": 8603,
+      "status": 200,
+      "created_at": "2026-06-19T17:53:08.035Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.136.58.106"
+    },
+    {
+      "id": 102,
+      "path": "/api/downloader/all",
+      "method": "GET",
+      "ping": 807,
+      "status": 200,
+      "created_at": "2026-06-19T17:52:43.622Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.136.58.106"
+    },
+    {
+      "id": 101,
+      "path": "/api/tools/v2/qr",
+      "method": "GET",
+      "ping": 2012,
+      "status": 200,
+      "created_at": "2026-06-19T17:51:46.624Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.136.58.106"
+    },
+    {
+      "id": 100,
+      "path": "/api/ai/deepseek",
+      "method": "GET",
+      "ping": 11329,
+      "status": 400,
+      "created_at": "2026-06-19T17:46:40.923Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.136.58.106"
+    },
+    {
+      "id": 99,
+      "path": "/api/neko/detail",
+      "method": "GET",
+      "ping": 1116,
+      "status": 500,
+      "created_at": "2026-06-19T14:05:25.651Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "160.191.65.2"
+    },
+    {
+      "id": 98,
+      "path": "/api/downloader/all",
+      "method": "GET",
+      "ping": 1243,
+      "status": 200,
+      "created_at": "2026-06-19T13:58:01.530Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "160.191.65.2"
+    },
+    {
+      "id": 97,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 23965,
+      "status": 200,
+      "created_at": "2026-06-19T09:20:05.187Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.129.69.79"
+    },
+    {
+      "id": 96,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 3129,
+      "status": 200,
+      "created_at": "2026-06-19T09:16:02.074Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.129.69.79"
+    },
+    {
+      "id": 95,
+      "path": "/api/assets/key",
+      "method": "GET",
+      "ping": 73,
+      "status": 404,
+      "created_at": "2026-06-17T22:04:47.540Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.166.0.189"
+    },
+    {
+      "id": 94,
+      "path": "/api/anime/otakudesu",
+      "method": "GET",
+      "ping": 3583,
+      "status": 200,
+      "created_at": "2026-06-17T22:04:04.324Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "125.166.0.189"
+    },
+    {
+      "id": 93,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 555,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:39.068Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 92,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 562,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:36.201Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 91,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 813,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:32.670Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 90,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 995,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:23.437Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 89,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 845,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:19.279Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 88,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 898,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:15.839Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 87,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 689,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:09.023Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 86,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 767,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:06.899Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 85,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 710,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:04.345Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 84,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 946,
+      "status": 200,
+      "created_at": "2026-06-17T20:13:01.638Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 83,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1050,
+      "status": 200,
+      "created_at": "2026-06-17T20:12:56.208Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 82,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 741,
+      "status": 200,
+      "created_at": "2026-06-17T20:12:48.079Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 81,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1231,
+      "status": 200,
+      "created_at": "2026-06-17T20:12:46.630Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 80,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1219,
+      "status": 200,
+      "created_at": "2026-06-17T20:12:30.776Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 79,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 923,
+      "status": 200,
+      "created_at": "2026-06-17T20:12:24.933Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 78,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 457,
+      "status": 500,
+      "created_at": "2026-06-17T20:12:21.102Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 77,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 453,
+      "status": 500,
+      "created_at": "2026-06-17T20:12:16.060Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 76,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 1603,
+      "status": 200,
+      "created_at": "2026-06-17T20:11:36.915Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 75,
+      "path": "/api/asupan/paptt",
+      "method": "GET",
+      "ping": 1690,
+      "status": 200,
+      "created_at": "2026-06-17T20:11:24.007Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 74,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1164,
+      "status": 500,
+      "created_at": "2026-06-17T20:11:09.089Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "36.80.184.38"
+    },
+    {
+      "id": 73,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 3291,
+      "status": 200,
+      "created_at": "2026-06-17T20:07:29.689Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "userip": "125.166.50.70"
+    },
+    {
+      "id": 72,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 3611,
+      "status": 200,
+      "created_at": "2026-06-17T20:07:08.387Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "userip": "125.166.50.70"
+    },
+    {
+      "id": 71,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 4141,
+      "status": 200,
+      "created_at": "2026-06-17T19:05:42.603Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.252.138.63"
+    },
+    {
+      "id": 70,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 1398,
+      "status": 400,
+      "created_at": "2026-06-17T19:05:29.460Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.252.138.63"
+    },
+    {
+      "id": 69,
+      "path": "/api/ai/copilot-think",
+      "method": "GET",
+      "ping": 5889,
+      "status": 200,
+      "created_at": "2026-06-17T18:05:32.694Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.252.138.63"
+    },
+    {
+      "id": 68,
+      "path": "/api/ai/copilot-think",
+      "method": "GET",
+      "ping": 8805,
+      "status": 200,
+      "created_at": "2026-06-17T18:04:52.541Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "180.252.138.63"
+    },
+    {
+      "id": 67,
+      "path": "/api/downloader/all",
+      "method": "GET",
+      "ping": 768,
+      "status": 200,
+      "created_at": "2026-06-17T17:29:04.347Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "160.22.134.65"
+    },
+    {
+      "id": 66,
+      "path": "/api/downloader/all",
+      "method": "GET",
+      "ping": 1442,
+      "status": 200,
+      "created_at": "2026-06-17T17:28:57.124Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "160.22.134.65"
+    },
+    {
+      "id": 65,
+      "path": "/api/downloader/all",
+      "method": "GET",
+      "ping": 379,
+      "status": 200,
+      "created_at": "2026-06-17T17:28:39.823Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "160.22.134.65"
+    },
+    {
+      "id": 64,
+      "path": "/api/downloader/all",
+      "method": "GET",
+      "ping": 1429,
+      "status": 200,
+      "created_at": "2026-06-17T17:28:35.708Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "160.22.134.65"
+    },
+    {
+      "id": 63,
+      "path": "/api/play/spotify",
+      "method": "GET",
+      "ping": 1260,
+      "status": 200,
+      "created_at": "2026-06-17T17:19:30.238Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "160.191.65.2"
+    },
+    {
+      "id": 62,
+      "path": "/api/upload/imgbb",
+      "method": "GET",
+      "ping": 3356,
+      "status": 200,
+      "created_at": "2026-06-17T16:02:54.215Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.79.222"
+    },
+    {
+      "id": 61,
+      "path": "/api/image/brat",
+      "method": "GET",
+      "ping": 2837,
+      "status": 200,
+      "created_at": "2026-06-17T14:42:12.014Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.215 Mobile Safari/537.36",
+      "userip": "182.10.130.135"
+    },
+    {
+      "id": 60,
+      "path": "/api/play/spotify",
+      "method": "GET",
+      "ping": 7844,
+      "status": 200,
+      "created_at": "2026-06-17T14:41:21.600Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.215 Mobile Safari/537.36",
+      "userip": "182.10.130.135"
+    },
+    {
+      "id": 59,
+      "path": "/api/random/music",
+      "method": "GET",
+      "ping": 11707,
+      "status": 200,
+      "created_at": "2026-06-17T14:40:26.353Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.215 Mobile Safari/537.36",
+      "userip": "182.10.130.135"
+    },
+    {
+      "id": 58,
+      "path": "/api/tools/ttlike",
+      "method": "GET",
+      "ping": 11303,
+      "status": 200,
+      "created_at": "2026-06-17T14:37:13.737Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.215 Mobile Safari/537.36",
+      "userip": "182.10.130.135"
+    },
+    {
+      "id": 57,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 1279,
+      "status": 200,
+      "created_at": "2026-06-17T14:34:36.464Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.215 Mobile Safari/537.36",
+      "userip": "182.10.130.135"
+    },
+    {
+      "id": 56,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 1149,
+      "status": 200,
+      "created_at": "2026-06-17T14:34:33.619Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.215 Mobile Safari/537.36",
+      "userip": "182.10.130.135"
+    },
+    {
+      "id": 55,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 1826,
+      "status": 200,
+      "created_at": "2026-06-17T14:34:31.973Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.215 Mobile Safari/537.36",
+      "userip": "182.10.130.135"
+    },
+    {
+      "id": 54,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 1872,
+      "status": 200,
+      "created_at": "2026-06-17T14:33:50.091Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.215 Mobile Safari/537.36",
+      "userip": "182.10.130.135"
+    },
+    {
+      "id": 53,
+      "path": "/api/sender/tele",
+      "method": "GET",
+      "ping": 2076,
+      "status": 200,
+      "created_at": "2026-06-17T13:53:41.386Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.79.222"
+    },
+    {
+      "id": 52,
+      "path": "/api/downloader/tiktok",
+      "method": "GET",
+      "ping": 1536,
+      "status": 200,
+      "created_at": "2026-06-17T12:39:05.970Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userip": "112.215.238.162"
+    },
+    {
+      "id": 51,
+      "path": "/api/anime/animekita/anime-list",
+      "method": "GET",
+      "ping": 1121,
+      "status": 200,
+      "created_at": "2026-06-17T12:08:24.537Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Safari/537.36",
+      "userip": "36.73.184.214"
+    },
+    {
+      "id": 50,
+      "path": "/api/anime/animekita/anime-list",
+      "method": "GET",
+      "ping": 2939,
+      "status": 200,
+      "created_at": "2026-06-17T12:08:08.131Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Safari/537.36",
+      "userip": "36.73.184.214"
+    },
+    {
+      "id": 49,
+      "path": "/api/upload/imgbb",
+      "method": "GET",
+      "ping": 1569,
+      "status": 400,
+      "created_at": "2026-06-17T12:05:16.705Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Safari/537.36",
+      "userip": "36.73.184.214"
+    },
+    {
+      "id": 48,
+      "path": "/api/admin/listapi",
+      "method": "GET",
+      "ping": 259,
+      "status": 404,
+      "created_at": "2026-06-17T11:59:53.631Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Safari/537.36",
+      "userip": "36.73.184.214"
+    },
+    {
+      "id": 47,
+      "path": "/api/admin/listapi",
+      "method": "GET",
+      "ping": 185,
+      "status": 404,
+      "created_at": "2026-06-17T11:59:50.217Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Safari/537.36",
+      "userip": "36.73.184.214"
+    },
+    {
+      "id": 46,
+      "path": "/api/admin/listapi",
+      "method": "GET",
+      "ping": 6467,
+      "status": 404,
+      "created_at": "2026-06-17T11:59:13.579Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Safari/537.36",
+      "userip": "36.73.184.214"
+    },
+    {
+      "id": 45,
+      "path": "/api/user",
+      "method": "GET",
+      "ping": 1305,
+      "status": 200,
+      "created_at": "2026-06-17T11:57:11.073Z",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Safari/537.36",
+      "userip": "36.73.184.214"
+    },
+    {
+      "id": 44,
+      "path": "/api/downloader/tiktok",
+      "method": "GET",
+      "ping": 1703,
+      "status": 200,
+      "created_at": "2026-06-17T10:42:15.209Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 43,
+      "path": "/api/downloader/tiktok",
+      "method": "GET",
+      "ping": 1331,
+      "status": 400,
+      "created_at": "2026-06-17T10:42:00.489Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 42,
+      "path": "/api/berita/cnn",
+      "method": "GET",
+      "ping": 7480,
+      "status": 500,
+      "created_at": "2026-06-17T10:41:48.881Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 41,
+      "path": "/api/anime/quotes",
+      "method": "GET",
+      "ping": 1358,
+      "status": 500,
+      "created_at": "2026-06-17T10:41:32.569Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 40,
+      "path": "/api/anime/otakudesu",
+      "method": "GET",
+      "ping": 1219,
+      "status": 500,
+      "created_at": "2026-06-17T10:41:23.035Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 39,
+      "path": "/api/ai/gpt5",
+      "method": "GET",
+      "ping": 2927,
+      "status": 200,
+      "created_at": "2026-06-17T10:36:32.981Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 38,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 3162,
+      "status": 200,
+      "created_at": "2026-06-17T10:35:54.429Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 37,
+      "path": "/api/ai/cici",
+      "method": "GET",
+      "ping": 3815,
+      "status": 200,
+      "created_at": "2026-06-17T10:35:32.150Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 36,
+      "path": "/api/ai/deepseek",
+      "method": "GET",
+      "ping": 833,
+      "status": 200,
+      "created_at": "2026-06-17T10:35:10.803Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 35,
+      "path": "/api/ai/deepseek",
+      "method": "GET",
+      "ping": 1794,
+      "status": 200,
+      "created_at": "2026-06-17T10:35:07.322Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 34,
+      "path": "/api/ai/deepseek",
+      "method": "GET",
+      "ping": 884,
+      "status": 400,
+      "created_at": "2026-06-17T10:34:45.953Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.4.212.93"
+    },
+    {
+      "id": 33,
+      "path": "/api/about",
+      "method": "GET",
+      "ping": 1634,
+      "status": 200,
+      "created_at": "2026-06-17T10:17:29.016Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.18.180"
+    },
+    {
+      "id": 32,
+      "path": "/api/editor/wanted",
+      "method": "GET",
+      "ping": 11904,
+      "status": 200,
+      "created_at": "2026-06-17T10:15:22.290Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.18.180"
+    },
+    {
+      "id": 31,
+      "path": "/api/editor/wasted",
+      "method": "GET",
+      "ping": 6943,
+      "status": 200,
+      "created_at": "2026-06-17T09:59:34.384Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.18.180"
+    },
+    {
+      "id": 30,
+      "path": "/api/asupan/nfsw",
+      "method": "GET",
+      "ping": 1024,
+      "status": 500,
+      "created_at": "2026-06-17T09:57:42.350Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 29,
+      "path": "/api/image/ppcouple",
+      "method": "GET",
+      "ping": 1386,
+      "status": 200,
+      "created_at": "2026-06-17T09:57:26.473Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 28,
+      "path": "/api/image/iqc",
+      "method": "GET",
+      "ping": 2786,
+      "status": 200,
+      "created_at": "2026-06-17T09:57:10.452Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 27,
+      "path": "/api/image/bratv",
+      "method": "GET",
+      "ping": 8776,
+      "status": 200,
+      "created_at": "2026-06-17T09:56:57.244Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 26,
+      "path": "/api/image/brat",
+      "method": "GET",
+      "ping": 1770,
+      "status": 200,
+      "created_at": "2026-06-17T09:56:42.305Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 25,
+      "path": "/api/neko/latest",
+      "method": "GET",
+      "ping": 1390,
+      "status": 200,
+      "created_at": "2026-06-17T09:56:29.445Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 24,
+      "path": "/api/quotes/Inggris",
+      "method": "GET",
+      "ping": 1825,
+      "status": 404,
+      "created_at": "2026-06-17T09:56:17.457Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 23,
+      "path": "/api/search/hentai",
+      "method": "GET",
+      "ping": 61862,
+      "status": 500,
+      "created_at": "2026-06-17T09:55:53.199Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 22,
+      "path": "/api/sender/mail",
+      "method": "GET",
+      "ping": 2423,
+      "status": 200,
+      "created_at": "2026-06-17T09:16:34.239Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 21,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 490,
+      "status": 200,
+      "created_at": "2026-06-17T08:13:16.021Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 20,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 395,
+      "status": 200,
+      "created_at": "2026-06-17T08:13:14.183Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 19,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 406,
+      "status": 200,
+      "created_at": "2026-06-17T08:13:12.810Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 18,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 353,
+      "status": 200,
+      "created_at": "2026-06-17T08:13:11.208Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 17,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 355,
+      "status": 200,
+      "created_at": "2026-06-17T08:13:09.511Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 16,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 699,
+      "status": 200,
+      "created_at": "2026-06-17T08:13:08.237Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 15,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 371,
+      "status": 200,
+      "created_at": "2026-06-17T08:13:05.924Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 14,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 393,
+      "status": 200,
+      "created_at": "2026-06-17T08:13:03.542Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 13,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 729,
+      "status": 200,
+      "created_at": "2026-06-17T08:13:02.439Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 12,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 1612,
+      "status": 200,
+      "created_at": "2026-06-17T08:12:58.892Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "undefined"
+    },
+    {
+      "id": 11,
+      "path": "/api/ai/copilot-think",
+      "method": "GET",
+      "ping": 12270,
+      "status": 200,
+      "created_at": "2026-06-17T05:12:01.669Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.216.68"
+    },
+    {
+      "id": 10,
+      "path": "/api/ai/copilot-think",
+      "method": "GET",
+      "ping": 3816,
+      "status": 200,
+      "created_at": "2026-06-17T05:11:25.357Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.216.68"
+    },
+    {
+      "id": 9,
+      "path": "/api/editor/wasted",
+      "method": "GET",
+      "ping": 6373,
+      "status": 200,
+      "created_at": "2026-06-17T03:39:41.631Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 8,
+      "path": "/api/tools/reach",
+      "method": "GET",
+      "ping": 2298,
+      "status": 500,
+      "created_at": "2026-06-17T03:24:18.077Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 7,
+      "path": "/api/random/quotes",
+      "method": "GET",
+      "ping": 791,
+      "status": 200,
+      "created_at": "2026-06-17T03:23:35.760Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 6,
+      "path": "/api/editor/wasted",
+      "method": "GET",
+      "ping": 17109,
+      "status": 200,
+      "created_at": "2026-06-17T03:23:04.328Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 5,
+      "path": "/api/docs",
+      "method": "GET",
+      "ping": 1593,
+      "status": 200,
+      "created_at": "2026-06-17T03:22:04.445Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "103.120.173.196"
+    },
+    {
+      "id": 4,
+      "path": "/api/upscale/hdfoto",
+      "method": "GET",
+      "ping": 13141,
+      "status": 200,
+      "created_at": "2026-06-16T17:05:46.436Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userip": "140.213.32.30"
+    },
+    {
+      "id": 3,
+      "path": "/api/about",
+      "method": "GET",
+      "ping": 1277,
+      "status": 200,
+      "created_at": "2026-06-16T09:26:00.233Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userip": "114.10.77.237"
+    },
+    {
       "id": 2,
       "path": "/api/about",
       "method": "GET",
-      "ping": 523,
+      "ping": 459,
       "status": 200,
-      "created_at": "2026-07-12T18:20:34.301Z",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-      "userip": "103.155.166.81"
+      "created_at": "2026-06-16T07:31:19.622Z",
+      "user_agent": null,
+      "userip": null
     },
     {
       "id": 1,
-      "path": "/api/stalker/threads",
+      "path": "/api/about",
       "method": "GET",
-      "ping": 3970,
+      "ping": 926,
       "status": 200,
-      "created_at": "2026-07-12T18:13:06.768Z",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-      "userip": "103.155.166.81"
+      "created_at": "2026-06-16T07:31:17.179Z",
+      "user_agent": null,
+      "userip": null
     }
-  ]
+ ]
 }
