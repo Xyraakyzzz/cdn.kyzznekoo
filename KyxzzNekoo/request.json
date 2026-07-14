@@ -1,7 +1,17 @@
 {
-  "hit": 414,
-  "hitToday": 23,
+  "hit": 415,
+  "hitToday": 24,
   "detail": [
+    {
+      "id": 415,
+      "path": "/api/canvas/v2/fakecall",
+      "method": "GET",
+      "ping": 1696,
+      "status": 400,
+      "created_at": "2026-07-14T13:20:09.930Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "userip": "103.155.166.82"
+    },
     {
       "id": 414,
       "path": "/api/search/group",
