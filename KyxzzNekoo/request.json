@@ -1,7 +1,17 @@
 {
-  "hit": 401,
-  "hitToday": 10,
+  "hit": 402,
+  "hitToday": 11,
   "detail": [
+    {
+      "id": 402,
+      "path": "/api/asupan/hentaiv",
+      "method": "GET",
+      "ping": 1445,
+      "status": 200,
+      "created_at": "2026-07-14T13:10:15.609Z",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "userip": "202.56.166.100"
+    },
     {
       "id": 401,
       "path": "/api/asupan/nfsw",
